@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+Xin chao
+Ban ten la gi?
+>>>>>>> parent of 3dd3903... Revert "Them thong tin vao file vd.txt"

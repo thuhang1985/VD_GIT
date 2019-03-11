@@ -2,4 +2,9 @@
 =======
 Xin chao
 Ban ten la gi?
+<<<<<<< HEAD
 >>>>>>> parent of 3dd3903... Revert "Them thong tin vao file vd.txt"
+=======
+Minh ten la Hang.
+DTTT K16A
+>>>>>>> 561713382c48a84fd9923ef8101de620d43d41e8
